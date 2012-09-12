@@ -14,6 +14,8 @@ function FrontAI.SelectObj ( )
     elseif(this._getPosition()==3)then this._getFileName ("front03")
     elseif(this._getPosition()==4)then this._getFileName ("front04")
     elseif(this._getPosition()==5)then this._getFileName ("front05")
+    elseif(this._getPosition()==6)then this._getFileName ("front06")
+    elseif(this._getPosition()==7)then this._getFileName ("front07")
     else this._getFileName ("front00") end
 --------------------------------------------------------------------------------
 end
